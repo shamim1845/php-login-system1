@@ -1,0 +1,187 @@
+
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #ffffff;
+	text-align: center;
+}
+.img{
+	height: 100px;
+	max-width: 450px;
+}
+#d{	background: #f7f7f7;
+	height: 600px;
+	width: 450px;
+	border-radius: 5px;
+	margin:10% auto;
+	padding: 20px;
+}
+#c{	background: #f9f9f9;
+	height: 500px;
+	width: 450px;
+	border-radius: 5px;
+	margin:10% auto;
+	padding: 20px;
+}
+
+
+#d button{
+	
+	border: none;
+	height: 30px;
+	width: 130px;
+	border-radius: 20px;
+}
+#d button a{
+	text-decoration: none;}
+#c button{
+	
+	border: none;
+	height: 30px;
+	width: 130px;
+	border-radius: 20px;
+}
+#c button a{
+	text-decoration: none;}
+
+
+.btn1{
+	background: #FFBD33;
+	border: none;
+}
+.btn2{
+	background: #DCDCDC;
+	border: none;
+}
+.btn4{
+	background: #FFBD33;
+	border: none;
+}
+.btn3{
+	background: #DCDCDC;
+	border: none;
+}
+
+
+
+#d h1{
+	text-align: left;
+}
+#c h1{
+	text-align: center;
+}
+
+#form1{
+	background: #fff;
+	margin: auto;	
+	color: black;
+	margin:35px 5px 10px 20px;
+    padding: 5px 9px;
+	height: 35px;
+	width: 170px;
+	float: left;
+    border: none;
+}
+
+#form{
+	background: #fff;
+	color: black;
+	margin: 10px 5px;
+    padding: 5px 10px;
+	height: 35px;
+	width: 380px;
+	border: none;
+}
+
+.term{
+	color: #00A3FF;
+	text-decoration: none;
+
+}
+.term:hover{
+	color: #32CD32;
+	text-decoration: underline;
+
+}
+#d form label{
+	margin: 5px;
+}
+#c form label{
+	margin: 5px;
+}
+#button{
+	justify-content: center;
+	font-size: 18px;
+	margin: 20px 0px 3px 0px;
+	padding: 10px;
+	text-align: center;
+	height:45px;
+	width: 150px;
+	color: #000;
+	background: #00A3FF;
+	border: none;
+	border-radius: 20px;
+}
+#button:hover{
+	background: red;
+	transition: 2s;
+
+}
+.btn{
+	margin: auto;
+	text-align: center;
+	color: aqua;
+}
+#buttonn{
+	margin: 0px;
+	text-align: center;
+	padding: 3px;
+	height:30px;
+	width: 380px;
+	background: #33FFBD;
+	border: none;
+}
+#table{
+	margin: auto;
+}
+#butonn{
+	text-align: left;
+    color:limegreen;
+	height:30px;
+	width: 140px;
+	background: #33FFBD;
+	border: none;
+}
+#butonn1{
+	text-align: center;
+    color: #00A3FF;
+	height:30px;
+	width: 80px;
+	background: #33FFBD;
+	border: none;
+}
+#butonn:hover{
+	text-decoration: underline;
+}
+#butonn1:hover{
+	text-decoration: underline;
+}
+#d form label{
+	font-weight: 100px;
+}
+#signin{
+	margin-top: 0px;
+	text-align: center;
+}
+#signin span input{
+	background: #f9f9f9;
+	color: #3399ff;
+}
+.sign{
+	border: none;
+	font-size: 15px;
+	background: red;
+}
+.sign:hover{
+}

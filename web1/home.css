@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+	background: #f7f7f7;
+}
+
+#header {
+	margin: 20px;
+	width: 100%;
+}
+
+#header img {
+	height: 100px;
+	float: left;
+}
+
+#header form {
+	margin-right: 30px;
+}
+
+.menu {
+	text-align: center;
+}
+
+
+.menu ul li {
+	margin: 40px 5px;
+	display: inline-block;
+}
+
+.menu ul li a {
+	margin: 20px 5px;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+.menu ul li a:hover {
+	color: #000;
+	margin: 20px 5px;
+	font-size: 20px;
+	border: none;
+	background: orange;
+	padding: 5px;
+	transition: 0.5s;
+	border-radius: 2px;
+
+}
+
+.li {
+	float: right;
+	box-sizing: border-box;
+	padding: 0px 10px;
+}
+
+.li input {
+	padding: 5px;
+	background: #00A3FF;
+	border: none;
+	border-radius: 5px;
+}
+.li input:hover{
+	padding: 5px;
+	background: red;
+	color: aliceblue;
+	transform: scale(1,1.2);
+	font-weight: 500;
+	cursor: pointer;
+	transition: 0.7s;
+}
+
+
+
+.heroo {
+	color: aliceblue;
+	font-size: 50px;
+	padding-top: 350px;
+	background-image: url(bg.jpg);
+	text-align: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 700px;
+}
+#client:active{
+	transition: 10s;
+}
+
+.client {
+	height: 300px;
+	width: 800px;
+	text-align: center;
+	margin: auto;
+}
+
+.para {
+	margin: 50px;
+	float: left;
+	height: 300px;
+	width: 400px;
+}
+
+.img img {
+	margin: 50px;
+	float: right;
+	height: 300px;
+	width: 400px;
+}
